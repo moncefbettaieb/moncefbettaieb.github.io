@@ -10,7 +10,27 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <lastBuildDate>Mon, 01 Jan 2024 10:00:00 GMT</lastBuildDate>
-
+     <!-- Exemple d'épisode (tu peux le laisser vide au début) -->
+    <!--
+    <item>
+      <title>Synthèse 13/09/2025 22:45</title>
+      <description>Résumé texte de l’épisode…</description>
+      <pubDate>Sat, 13 Sep 2025 20:45:00 GMT</pubDate>
+      <guid isPermaLink="false">id-unique-ici</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&id=GOOGLE_DRIVE_FILE_ID"
+                 length="1234567"
+                 type="audio/mpeg"/>
+    </item>
+    -->
+     <item>
+          <title>Synthèse 13/09/2025 22:45</title>
+           <description>Résumé texte de l’épisode</description>
+           <pubDate>Sat, 13 Sep 2025 20:45:00 GMT</pubDate>
+           <guid isPermaLink="false">id-unique-ici</guid>
+           <enclosure url="https://drive.google.com/file/d/10_9XO_fB7fNQ_GiVgqvDlYROBVrrOU9M/view?usp=drive_link"
+                 length="1234567"
+                 type="audio/mpeg"/>
+     </item>
     
   </channel>
 </rss>
