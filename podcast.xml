@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>TODO: Titre du podcast</title>
+    <link>https://github.com/TODO/</link>
+    <description>Résume des mails</description>
+    <language>fr-FR</language>
+    <itunes:author>Moncef Bettaieb</itunes:author>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <lastBuildDate>Mon, 01 Jan 2024 10:00:00 GMT</lastBuildDate>
+
+    
+  </channel>
+</rss>
