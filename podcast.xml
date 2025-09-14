@@ -8,6 +8,17 @@
   <language>fr-FR</language>
   <itunes:author>Moncef</itunes:author>
   <itunes:explicit>false</itunes:explicit>
+  <lastBuildDate>Sun, 14 Sep 2025 17:37:49 GMT</lastBuildDate>
+  <?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>Synthèse Emails (Podcast)</title>
+  <link>https://example.com</link>
+  <description>Podcast auto-généré des synthèses emails</description>
+  <language>fr-FR</language>
+  <itunes:author>Moncef</itunes:author>
+  <itunes:explicit>false</itunes:explicit>
   <lastBuildDate>Sun, 14 Sep 2025 17:36:37 GMT</lastBuildDate>
   <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
@@ -105,6 +116,8 @@
   </channel>
 </rss>
 
+</channel>
+</rss>
 </channel>
 </rss>
 </channel>
