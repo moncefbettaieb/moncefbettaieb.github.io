@@ -15,15 +15,14 @@
     <itunes:image href="https://moncefbettaieb.github.io/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 14 Sep 2025 20:36:01 GMT</lastBuildDate>
-    <item>
-          <title>Synthèse 13/09/2025 22:45</title>
-           <description>Résumé texte de l’épisode</description>
-           <pubDate>Sat, 13 Sep 2025 20:45:00 GMT</pubDate>
-           <guid isPermaLink="false">id-unique-ici</guid>
-           <enclosure url="https://drive.google.com/file/d/10_9XO_fB7fNQ_GiVgqvDlYROBVrrOU9M/view?usp=drive_link"
-                 length="1234567"
-                 type="audio/mpeg"/>
-     </item>
+    <lastBuildDate>Sun, 14 Sep 2025 20:45:52 GMT</lastBuildDate>
+
+<item>
+  <title>Synthèse 14/09/2025 20:45:08</title>
+  <description><![CDATA[Synthèse automatique.]]></description>
+  <pubDate>Sun, 14 Sep 2025 20:45:08 GMT</pubDate>
+  <guid isPermaLink="false">1oKDTBTQU7XcFhVcApasKy8_hKYp1FSXB</guid>
+  <enclosure url="https://drive.google.com/uc?export=download&id=1oKDTBTQU7XcFhVcApasKy8_hKYp1FSXB" length="1489008" type="audio/wav"/>
+</item>
   </channel>
 </rss>
