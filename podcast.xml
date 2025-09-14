@@ -7,7 +7,6 @@
     <link>https://moncefbettaieb.github.io/</link>
     <description>Podcast généré automatiquement avec n8n — synthèses d’emails en audio.</description>
     <language>fr-FR</language>
-
     <itunes:author>Moncef Bettaieb</itunes:author>
     <itunes:owner>
       <itunes:name>Moncef Bettaieb</itunes:name>
@@ -16,7 +15,13 @@
     <itunes:image href="https://moncefbettaieb.github.io/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-
-    <lastBuildDate>Sun, 14 Sep 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 18:32:29 GMT</lastBuildDate>
+<item>
+  <title>Synthèse 14/09/2025 18:32:29</title>
+  <description><![CDATA[Synthèse automatique.]]></description>
+  <pubDate>Sun, 14 Sep 2025 18:32:29 GMT</pubDate>
+  <guid isPermaLink="false"></guid>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=undefined" length="0" type="audio/wav"/>
+</item>
   </channel>
 </rss>
